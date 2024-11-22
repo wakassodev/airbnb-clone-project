@@ -101,7 +101,7 @@ This project aims to create a simplified version of AirBnB with core booking fun
   - 2xl: 1.5rem (24px)
   - 3xl: 1.875rem (30px)
 
-## 👥 Project Roles
+## 👥 Project Roles and Responsibilities
 
 ### Project Manager
 - Project planning and timeline management
